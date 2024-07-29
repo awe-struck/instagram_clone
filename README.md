@@ -25,4 +25,4 @@ I worked with eight related tables, which contained instagram data about:
 
 | # | Outline | Description |
 |---|---|---|
-| 1 | [Researching Seeded Instagram Data] | Using SQL to answer various questions involving the seeded instagram data |
+| 1 | [Researching Seeded Instagram Data](questions.sql) | Using SQL to answer various questions involving the seeded instagram data |
