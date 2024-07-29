@@ -6,6 +6,10 @@
 
 I designed a database schemea modelled after basic instagram functions and operations. From there, I inserted seed data and answered various questions related to the dataset. Of which included: identifying target users, optimizing ad posting schedule and etc.
 
+***
+<br>
+<br>
+
 ## Overview Database
 
 I worked with eight related tables, which contained instagram data about:
@@ -21,7 +25,6 @@ I worked with eight related tables, which contained instagram data about:
 
 
 ### Outline
-
 
 | # | Outline | Description |
 |---|---|---|
